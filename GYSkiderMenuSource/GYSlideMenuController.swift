@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 //
 //  GYSlideMenuController.swift
 //  GYSwiftSliderMenu
@@ -1073,5 +1072,3 @@ extension UIViewController {
 }
 
 
-
->>>>>>> parent of a9df011... //
