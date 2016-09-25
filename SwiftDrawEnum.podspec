@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = 'SwiftDrawEnum'
-  s.version      = '1.0'
+  s.version      = '1.0.1'
   s.summary      = 'Draw Menu'
   s.homepage     = 'https://github.com/airfight/SwiftDrawEnum'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
