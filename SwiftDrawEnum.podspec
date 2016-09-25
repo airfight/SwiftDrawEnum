@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = 'SwiftDrawEnum'
-  s.version      = '1.0.1'
+  s.version      = '1.0.3'
   s.summary      = 'Draw Menu'
   s.homepage     = 'https://github.com/airfight/SwiftDrawEnum'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
@@ -9,8 +9,8 @@ Pod::Spec.new do |s|
   s.platform     = :ios
   s.ios.deployment_target = '8.0'
   s.source       = { :git => 'https://github.com/airfight/SwiftDrawEnum.git', :tag => s.version }
-  s.frameworks = 'UIKit','Foundation'  
-  s.source_files = "GYSkiderMenuSource/*"
+  s.frameworks = 'UIKit'  
+  s.source_files = "GYSkiderMenuSource/GYSlideMenuController.swift"
   s.requires_arc = true
 
 end
