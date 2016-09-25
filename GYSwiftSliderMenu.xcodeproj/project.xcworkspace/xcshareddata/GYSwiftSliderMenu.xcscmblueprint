@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3BA4C8041F79B29692406B5E3B001B2FAE52A549",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3BA4C8041F79B29692406B5E3B001B2FAE52A549" : 9223372036854775807,
+    "3D28736BE3503BA83B595D3CFE486A9724A96D5F" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7E679F19-3408-4843-9FE2-1F0626D37A93",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3BA4C8041F79B29692406B5E3B001B2FAE52A549" : "SwiftDrawEnum\/",
+    "3D28736BE3503BA83B595D3CFE486A9724A96D5F" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GYSwiftSliderMenu",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GYSwiftSliderMenu.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/airfight\/SwiftDrawEnum.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3BA4C8041F79B29692406B5E3B001B2FAE52A549"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CocoaPods\/Specs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3D28736BE3503BA83B595D3CFE486A9724A96D5F"
+    }
+  ]
+}
