@@ -6,6 +6,7 @@ Pod::Spec.new do |s|
   s.homepage     = 'https://github.com/airfight/SwiftDrawEnum'
   s.license      = 'MIT'
   s.author       = { 'airfight' => '745756619@qq.com' }
+  s.social_media_url   = 'http://twitter.com/GiantForJade'
   s.platform     = :ios
   s.ios.deployment_target = '8.0'
   s.source       = { :git => 'https://github.com/airfight/SwiftDrawEnum.git', :tag => s.version }
