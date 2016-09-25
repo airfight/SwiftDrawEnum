@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B0275D0C1D9784B400CEB091 /* GYBaseNavViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0275D0B1D9784B400CEB091 /* GYBaseNavViewController.swift */; };
+		B0275D0E1D97AFC800CEB091 /* GYSlideMenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0275D0D1D97AFC800CEB091 /* GYSlideMenuController.swift */; };
 		B075273F1D96B647007DF712 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B075273E1D96B647007DF712 /* ViewController.swift */; };
 		B0ACB7891D968762009758E1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0ACB7881D968762009758E1 /* AppDelegate.swift */; };
 		B0ACB78E1D968762009758E1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B0ACB78C1D968762009758E1 /* Main.storyboard */; };
@@ -35,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		B0275D0B1D9784B400CEB091 /* GYBaseNavViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GYBaseNavViewController.swift; sourceTree = "<group>"; };
+		B0275D0D1D97AFC800CEB091 /* GYSlideMenuController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GYSlideMenuController.swift; sourceTree = "<group>"; };
 		B075273E1D96B647007DF712 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		B0ACB7851D968762009758E1 /* GYSwiftSliderMenu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GYSwiftSliderMenu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0ACB7881D968762009758E1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -79,7 +79,7 @@
 		B075273B1D96B5CE007DF712 /* GYSkiderMenuSource */ = {
 			isa = PBXGroup;
 			children = (
-				B0275D0B1D9784B400CEB091 /* GYBaseNavViewController.swift */,
+				B0275D0D1D97AFC800CEB091 /* GYSlideMenuController.swift */,
 			);
 			path = GYSkiderMenuSource;
 			sourceTree = "<group>";
@@ -270,8 +270,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B0275D0C1D9784B400CEB091 /* GYBaseNavViewController.swift in Sources */,
 				B075273F1D96B647007DF712 /* ViewController.swift in Sources */,
+				B0275D0E1D97AFC800CEB091 /* GYSlideMenuController.swift in Sources */,
 				B0ACB7891D968762009758E1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
